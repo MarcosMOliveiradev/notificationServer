@@ -1,4 +1,4 @@
-import { InMemoryNotificationsRepository } from '../../../test/repositories/in-memory-notifications-repository';
+import { InMemoryNotificationsRepository } from '@test/repositories/in-memory-notifications-repository';
 import { SendNotofocation } from './send-notification';
 
 describe('send notification', () => {
